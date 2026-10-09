@@ -1,0 +1,386 @@
+[
+  {
+    "id": "hr_01",
+    "department": "HR",
+    "audience": "internal",
+    "question": "What is the process for requesting paid time off (PTO) at ShopUNow?",
+    "answer": "To request paid time off (PTO) at ShopUNow, employees should log into the employee portal, navigate to the 'PTO Requests' section, and fill out the form with the requested dates and reason. Once submitted, your manager will review the request within 48 hours. Please ensure you have sufficient PTO balance before submitting your request.",
+    "doc": "Q: What is the process for requesting paid time off (PTO) at ShopUNow?\nA: To request paid time off (PTO) at ShopUNow, employees should log into the employee portal, navigate to the 'PTO Requests' section, and fill out the form with the requested dates and reason. Once submitted, your manager will review the request within 48 hours. Please ensure you have sufficient PTO balance before submitting your request."
+  },
+  {
+    "id": "hr_02",
+    "department": "HR",
+    "audience": "internal",
+    "question": "How can I update my personal information in the HR system?",
+    "answer": "To update your personal information, log into the employee portal and go to the 'Profile Settings' section. From there, you can edit your contact information, emergency contacts, and tax information. For any sensitive changes, such as your bank details for payroll, you may need to contact HR directly for security verification.",
+    "doc": "Q: How can I update my personal information in the HR system?\nA: To update your personal information, log into the employee portal and go to the 'Profile Settings' section. From there, you can edit your contact information, emergency contacts, and tax information. For any sensitive changes, such as your bank details for payroll, you may need to contact HR directly for security verification."
+  },
+  {
+    "id": "hr_03",
+    "department": "HR",
+    "audience": "internal",
+    "question": "What is the policy regarding performance reviews at ShopUNow?",
+    "answer": "Performance reviews at ShopUNow are conducted annually. Employees will receive a formal review from their manager, which includes feedback on performance, goals for the upcoming year, and potential salary adjustments. Mid-year check-ins are also encouraged to discuss progress and any challenges. Employees are expected to prepare by reflecting on their accomplishments and areas for improvement prior to the review.",
+    "doc": "Q: What is the policy regarding performance reviews at ShopUNow?\nA: Performance reviews at ShopUNow are conducted annually. Employees will receive a formal review from their manager, which includes feedback on performance, goals for the upcoming year, and potential salary adjustments. Mid-year check-ins are also encouraged to discuss progress and any challenges. Employees are expected to prepare by reflecting on their accomplishments and areas for improvement prior to the review."
+  },
+  {
+    "id": "hr_04",
+    "department": "HR",
+    "audience": "internal",
+    "question": "How can I transfer to another department within ShopUNow?",
+    "answer": "To initiate an internal transfer at ShopUNow, employees should first discuss their interest with their current manager. Once you have support, you can apply for the open position through the internal job portal. Make sure to follow the application process outlined in the job posting and include a cover letter explaining your interest in the transfer.",
+    "doc": "Q: How can I transfer to another department within ShopUNow?\nA: To initiate an internal transfer at ShopUNow, employees should first discuss their interest with their current manager. Once you have support, you can apply for the open position through the internal job portal. Make sure to follow the application process outlined in the job posting and include a cover letter explaining your interest in the transfer."
+  },
+  {
+    "id": "hr_05",
+    "department": "HR",
+    "audience": "internal",
+    "question": "What should I do if I have a payroll discrepancy?",
+    "answer": "If you notice a payroll discrepancy, please report it immediately to the HR payroll team. You can do this by submitting a payroll inquiry form available on the employee portal. Ensure you include all relevant details, such as your employee ID, specific dates, and the nature of the discrepancy. The HR team will investigate and resolve the issue as quickly as possible.",
+    "doc": "Q: What should I do if I have a payroll discrepancy?\nA: If you notice a payroll discrepancy, please report it immediately to the HR payroll team. You can do this by submitting a payroll inquiry form available on the employee portal. Ensure you include all relevant details, such as your employee ID, specific dates, and the nature of the discrepancy. The HR team will investigate and resolve the issue as quickly as possible."
+  },
+  {
+    "id": "hr_06",
+    "department": "HR",
+    "audience": "internal",
+    "question": "What benefits are available to employees at ShopUNow?",
+    "answer": "ShopUNow offers a comprehensive benefits package that includes health insurance, dental and vision coverage, a retirement savings plan with company matching, paid time off, and employee discounts. For more specific details about each benefit, please refer to the employee handbook or contact the HR benefits coordinator.",
+    "doc": "Q: What benefits are available to employees at ShopUNow?\nA: ShopUNow offers a comprehensive benefits package that includes health insurance, dental and vision coverage, a retirement savings plan with company matching, paid time off, and employee discounts. For more specific details about each benefit, please refer to the employee handbook or contact the HR benefits coordinator."
+  },
+  {
+    "id": "hr_07",
+    "department": "HR",
+    "audience": "internal",
+    "question": "How do I report workplace harassment or discrimination?",
+    "answer": "To report workplace harassment or discrimination at ShopUNow, you should contact the HR department immediately. You can do this by filling out the incident report form on the employee portal or speaking directly to an HR representative. All reports will be taken seriously and handled with confidentiality. ShopUNow has a zero-tolerance policy for harassment and discrimination.",
+    "doc": "Q: How do I report workplace harassment or discrimination?\nA: To report workplace harassment or discrimination at ShopUNow, you should contact the HR department immediately. You can do this by filling out the incident report form on the employee portal or speaking directly to an HR representative. All reports will be taken seriously and handled with confidentiality. ShopUNow has a zero-tolerance policy for harassment and discrimination."
+  },
+  {
+    "id": "hr_08",
+    "department": "HR",
+    "audience": "internal",
+    "question": "What is the procedure for employee termination?",
+    "answer": "The procedure for employee termination at ShopUNow involves a series of steps. If performance issues are identified, the employee will receive a formal warning and an opportunity to improve. If termination is deemed necessary, HR will conduct an exit interview, provide the employee with their final paycheck, and explain the process for benefits continuation. All terminations are handled in accordance with company policy and legal requirements.",
+    "doc": "Q: What is the procedure for employee termination?\nA: The procedure for employee termination at ShopUNow involves a series of steps. If performance issues are identified, the employee will receive a formal warning and an opportunity to improve. If termination is deemed necessary, HR will conduct an exit interview, provide the employee with their final paycheck, and explain the process for benefits continuation. All terminations are handled in accordance with company policy and legal requirements."
+  },
+  {
+    "id": "hr_09",
+    "department": "HR",
+    "audience": "internal",
+    "question": "What resources are available for employee training and development?",
+    "answer": "ShopUNow offers various resources for employee training and development, including online courses, workshops, and mentorship programs. Employees can access the Learning Management System via the employee portal to find available training options. Additionally, employees are encouraged to discuss their development goals with their managers during performance reviews to identify further opportunities.",
+    "doc": "Q: What resources are available for employee training and development?\nA: ShopUNow offers various resources for employee training and development, including online courses, workshops, and mentorship programs. Employees can access the Learning Management System via the employee portal to find available training options. Additionally, employees are encouraged to discuss their development goals with their managers during performance reviews to identify further opportunities."
+  },
+  {
+    "id": "hr_10",
+    "department": "HR",
+    "audience": "internal",
+    "question": "How do I access my pay stubs and tax documents?",
+    "answer": "You can access your pay stubs and tax documents by logging into the employee portal and navigating to the 'Payroll' section. Here, you will find all your pay stubs for the current and past periods, as well as your tax documents such as W-2s. If you encounter any issues accessing these documents, please contact the HR payroll department for assistance.",
+    "doc": "Q: How do I access my pay stubs and tax documents?\nA: You can access your pay stubs and tax documents by logging into the employee portal and navigating to the 'Payroll' section. Here, you will find all your pay stubs for the current and past periods, as well as your tax documents such as W-2s. If you encounter any issues accessing these documents, please contact the HR payroll department for assistance."
+  },
+  {
+    "id": "hr_11",
+    "department": "HR",
+    "audience": "internal",
+    "question": "What is the policy on remote work at ShopUNow?",
+    "answer": "ShopUNow supports flexible work arrangements, including remote work, depending on the role and department. Employees interested in remote work should discuss this with their supervisor and submit a formal request through the employee portal. Each request will be evaluated based on business needs and individual performance.",
+    "doc": "Q: What is the policy on remote work at ShopUNow?\nA: ShopUNow supports flexible work arrangements, including remote work, depending on the role and department. Employees interested in remote work should discuss this with their supervisor and submit a formal request through the employee portal. Each request will be evaluated based on business needs and individual performance."
+  },
+  {
+    "id": "hr_12",
+    "department": "HR",
+    "audience": "internal",
+    "question": "How do I participate in the employee referral program?",
+    "answer": "To participate in the employee referral program at ShopUNow, employees should refer qualified candidates for open positions through the employee portal. Make sure to provide the candidate\u2019s details and how you know them. If your referral is hired and stays with the company for the required period, you may be eligible for a referral bonus. For more information, refer to the employee handbook.",
+    "doc": "Q: How do I participate in the employee referral program?\nA: To participate in the employee referral program at ShopUNow, employees should refer qualified candidates for open positions through the employee portal. Make sure to provide the candidate\u2019s details and how you know them. If your referral is hired and stays with the company for the required period, you may be eligible for a referral bonus. For more information, refer to the employee handbook."
+  },
+  {
+    "id": "it_01",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "How can I reset my ShopUNow password if I forgot it?",
+    "answer": "To reset your ShopUNow password, please follow these steps: 1. Go to the ShopUNow login page. 2. Click on the 'Forgot Password?' link. 3. Enter your registered email address and submit. 4. Check your email for a password reset link and follow the instructions. If you encounter any issues, please contact the IT_Support team for further assistance.",
+    "doc": "Q: How can I reset my ShopUNow password if I forgot it?\nA: To reset your ShopUNow password, please follow these steps: 1. Go to the ShopUNow login page. 2. Click on the 'Forgot Password?' link. 3. Enter your registered email address and submit. 4. Check your email for a password reset link and follow the instructions. If you encounter any issues, please contact the IT_Support team for further assistance."
+  },
+  {
+    "id": "it_02",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "What should I do if my laptop won\u2019t connect to the internet?",
+    "answer": "If your laptop is not connecting to the internet, try the following troubleshooting steps: 1. Ensure Wi-Fi is enabled on your laptop. 2. Restart your laptop and router. 3. Check if other devices can connect to the Wi-Fi. 4. If the issue persists, please submit a support ticket to IT_Support for further diagnosis and assistance.",
+    "doc": "Q: What should I do if my laptop won\u2019t connect to the internet?\nA: If your laptop is not connecting to the internet, try the following troubleshooting steps: 1. Ensure Wi-Fi is enabled on your laptop. 2. Restart your laptop and router. 3. Check if other devices can connect to the Wi-Fi. 4. If the issue persists, please submit a support ticket to IT_Support for further diagnosis and assistance."
+  },
+  {
+    "id": "it_03",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "How do I install company-approved software on my laptop?",
+    "answer": "To install company-approved software on your laptop, you must submit a request through the IT_Support ticketing system. Specify the software name and version required. Once approved, you will receive instructions on how to download and install it. Please ensure that you have administrative privileges or seek assistance from IT_Support if needed.",
+    "doc": "Q: How do I install company-approved software on my laptop?\nA: To install company-approved software on your laptop, you must submit a request through the IT_Support ticketing system. Specify the software name and version required. Once approved, you will receive instructions on how to download and install it. Please ensure that you have administrative privileges or seek assistance from IT_Support if needed."
+  },
+  {
+    "id": "it_04",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "What is the process for setting up a VPN for remote work?",
+    "answer": "To set up a VPN for remote work at ShopUNow, please follow these steps: 1. Submit a request to IT_Support for VPN access. 2. Once approved, you will receive instructions and access credentials. 3. Download the VPN client and install it on your laptop. 4. Use the provided credentials to log in. If you experience any issues, contact IT_Support for help.",
+    "doc": "Q: What is the process for setting up a VPN for remote work?\nA: To set up a VPN for remote work at ShopUNow, please follow these steps: 1. Submit a request to IT_Support for VPN access. 2. Once approved, you will receive instructions and access credentials. 3. Download the VPN client and install it on your laptop. 4. Use the provided credentials to log in. If you experience any issues, contact IT_Support for help."
+  },
+  {
+    "id": "it_05",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "How can I report a technical issue with my software?",
+    "answer": "To report a technical issue with your software, please submit a detailed support ticket to IT_Support. Include information such as the software name, version, a description of the issue, and any error messages you may have encountered. This will help us assist you more effectively.",
+    "doc": "Q: How can I report a technical issue with my software?\nA: To report a technical issue with your software, please submit a detailed support ticket to IT_Support. Include information such as the software name, version, a description of the issue, and any error messages you may have encountered. This will help us assist you more effectively."
+  },
+  {
+    "id": "it_06",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "What should I do if my laptop is running slow?",
+    "answer": "If your laptop is running slow, please try the following steps: 1. Close unnecessary applications and tabs. 2. Check for software updates and install any available updates. 3. Run a malware scan to check for potential threats. 4. If the problem persists, submit a support ticket to IT_Support, and we will assist you in diagnosing the issue.",
+    "doc": "Q: What should I do if my laptop is running slow?\nA: If your laptop is running slow, please try the following steps: 1. Close unnecessary applications and tabs. 2. Check for software updates and install any available updates. 3. Run a malware scan to check for potential threats. 4. If the problem persists, submit a support ticket to IT_Support, and we will assist you in diagnosing the issue."
+  },
+  {
+    "id": "it_07",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "How do I access my email on my mobile device?",
+    "answer": "To access your ShopUNow email on your mobile device, download the Outlook app from your device's app store. Use your ShopUNow email address and password to log in. If you face any issues during setup, reach out to IT_Support for assistance.",
+    "doc": "Q: How do I access my email on my mobile device?\nA: To access your ShopUNow email on your mobile device, download the Outlook app from your device's app store. Use your ShopUNow email address and password to log in. If you face any issues during setup, reach out to IT_Support for assistance."
+  },
+  {
+    "id": "it_08",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "What is the policy for using personal devices for work?",
+    "answer": "ShopUNow's policy for using personal devices for work requires that you register your device with IT_Support and ensure it complies with our security standards. You must also install necessary security software and use a VPN when accessing company data. For more details, please refer to the IT policy document or contact IT_Support.",
+    "doc": "Q: What is the policy for using personal devices for work?\nA: ShopUNow's policy for using personal devices for work requires that you register your device with IT_Support and ensure it complies with our security standards. You must also install necessary security software and use a VPN when accessing company data. For more details, please refer to the IT policy document or contact IT_Support."
+  },
+  {
+    "id": "it_09",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "How can I get help with software training?",
+    "answer": "For help with software training, please contact IT_Support to inquire about available training sessions or resources. We offer workshops and online tutorials for commonly used software. If you have specific training needs, let us know, and we will do our best to accommodate you.",
+    "doc": "Q: How can I get help with software training?\nA: For help with software training, please contact IT_Support to inquire about available training sessions or resources. We offer workshops and online tutorials for commonly used software. If you have specific training needs, let us know, and we will do our best to accommodate you."
+  },
+  {
+    "id": "it_10",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "What should I do if I receive a suspicious email?",
+    "answer": "If you receive a suspicious email, do not click on any links or download attachments. Report the email to IT_Support immediately, providing details about the sender and the content. We will investigate and take appropriate action to protect the company\u2019s data.",
+    "doc": "Q: What should I do if I receive a suspicious email?\nA: If you receive a suspicious email, do not click on any links or download attachments. Report the email to IT_Support immediately, providing details about the sender and the content. We will investigate and take appropriate action to protect the company\u2019s data."
+  },
+  {
+    "id": "it_11",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "How do I request additional hardware for my workstation?",
+    "answer": "To request additional hardware for your workstation, please submit a request through the IT_Support ticketing system. Specify the type of hardware you need and the reason for your request. Your request will be reviewed by the IT team, and you will be notified of the approval status.",
+    "doc": "Q: How do I request additional hardware for my workstation?\nA: To request additional hardware for your workstation, please submit a request through the IT_Support ticketing system. Specify the type of hardware you need and the reason for your request. Your request will be reviewed by the IT team, and you will be notified of the approval status."
+  },
+  {
+    "id": "it_12",
+    "department": "IT_Support",
+    "audience": "internal",
+    "question": "What are the operating hours for IT_Support?",
+    "answer": "The IT_Support department operates from 8:00 AM to 6:00 PM, Monday through Friday. For urgent issues outside of these hours, please refer to the emergency contact guidelines provided in the IT policy document.",
+    "doc": "Q: What are the operating hours for IT_Support?\nA: The IT_Support department operates from 8:00 AM to 6:00 PM, Monday through Friday. For urgent issues outside of these hours, please refer to the emergency contact guidelines provided in the IT policy document."
+  },
+  {
+    "id": "bill_01",
+    "department": "Billing",
+    "audience": "external",
+    "question": "How can I access my invoice for a recent purchase?",
+    "answer": "You can access your invoice by logging into your ShopUNow account. Navigate to 'Order History', select the specific order, and click on 'View Invoice'. If you purchased as a guest, please check your email for the invoice sent after the purchase or contact our support team for assistance.",
+    "doc": "Q: How can I access my invoice for a recent purchase?\nA: You can access your invoice by logging into your ShopUNow account. Navigate to 'Order History', select the specific order, and click on 'View Invoice'. If you purchased as a guest, please check your email for the invoice sent after the purchase or contact our support team for assistance."
+  },
+  {
+    "id": "bill_02",
+    "department": "Billing",
+    "audience": "external",
+    "question": "What payment methods do you accept?",
+    "answer": "ShopUNow accepts various payment methods including Visa, MasterCard, American Express, PayPal, and ShopUNow gift cards. All payment methods are securely processed to ensure your information is safe.",
+    "doc": "Q: What payment methods do you accept?\nA: ShopUNow accepts various payment methods including Visa, MasterCard, American Express, PayPal, and ShopUNow gift cards. All payment methods are securely processed to ensure your information is safe."
+  },
+  {
+    "id": "bill_03",
+    "department": "Billing",
+    "audience": "external",
+    "question": "I believe I was overcharged for my order. What should I do?",
+    "answer": "If you believe you were overcharged, please contact our Billing department within 30 days of the transaction. Provide your order number and details of the discrepancy. We will review your case and issue any necessary adjustments or refunds.",
+    "doc": "Q: I believe I was overcharged for my order. What should I do?\nA: If you believe you were overcharged, please contact our Billing department within 30 days of the transaction. Provide your order number and details of the discrepancy. We will review your case and issue any necessary adjustments or refunds."
+  },
+  {
+    "id": "bill_04",
+    "department": "Billing",
+    "audience": "external",
+    "question": "Can I change my payment method after placing an order?",
+    "answer": "Unfortunately, once an order has been placed, the payment method cannot be changed. If you need to modify your payment, please contact our support team as soon as possible to cancel your order. You can then place a new order with the desired payment method.",
+    "doc": "Q: Can I change my payment method after placing an order?\nA: Unfortunately, once an order has been placed, the payment method cannot be changed. If you need to modify your payment, please contact our support team as soon as possible to cancel your order. You can then place a new order with the desired payment method."
+  },
+  {
+    "id": "bill_05",
+    "department": "Billing",
+    "audience": "external",
+    "question": "How do I request a refund for a returned item?",
+    "answer": "To request a refund for a returned item, please ensure the item is eligible for return according to our Refund Policy. After initiating the return process, you will receive confirmation. Once we receive the returned item, we will process your refund within 7-10 business days back to your original payment method.",
+    "doc": "Q: How do I request a refund for a returned item?\nA: To request a refund for a returned item, please ensure the item is eligible for return according to our Refund Policy. After initiating the return process, you will receive confirmation. Once we receive the returned item, we will process your refund within 7-10 business days back to your original payment method."
+  },
+  {
+    "id": "bill_06",
+    "department": "Billing",
+    "audience": "external",
+    "question": "What is your policy on billing disputes?",
+    "answer": "Our policy on billing disputes allows customers to report any discrepancies within 30 days of the transaction. Contact our Billing department with your order number and details of the dispute. We will investigate and respond within 5 business days.",
+    "doc": "Q: What is your policy on billing disputes?\nA: Our policy on billing disputes allows customers to report any discrepancies within 30 days of the transaction. Contact our Billing department with your order number and details of the dispute. We will investigate and respond within 5 business days."
+  },
+  {
+    "id": "bill_07",
+    "department": "Billing",
+    "audience": "external",
+    "question": "How long does it take to process a refund?",
+    "answer": "Refunds are generally processed within 7-10 business days after we receive your returned item. Depending on your bank, it may take additional time for the funds to reflect in your account.",
+    "doc": "Q: How long does it take to process a refund?\nA: Refunds are generally processed within 7-10 business days after we receive your returned item. Depending on your bank, it may take additional time for the funds to reflect in your account."
+  },
+  {
+    "id": "bill_08",
+    "department": "Billing",
+    "audience": "external",
+    "question": "What should I do if I don\u2019t receive my refund?",
+    "answer": "If you do not receive your refund within 10 business days after it has been processed, please contact our Billing department with your order number. We will investigate the issue and ensure that your refund is issued promptly.",
+    "doc": "Q: What should I do if I don\u2019t receive my refund?\nA: If you do not receive your refund within 10 business days after it has been processed, please contact our Billing department with your order number. We will investigate the issue and ensure that your refund is issued promptly."
+  },
+  {
+    "id": "bill_09",
+    "department": "Billing",
+    "audience": "external",
+    "question": "Can I use multiple payment methods for one order?",
+    "answer": "At this time, ShopUNow does not support using multiple payment methods for a single order. Please select one payment method at checkout. If you have any issues, feel free to contact our support team for assistance.",
+    "doc": "Q: Can I use multiple payment methods for one order?\nA: At this time, ShopUNow does not support using multiple payment methods for a single order. Please select one payment method at checkout. If you have any issues, feel free to contact our support team for assistance."
+  },
+  {
+    "id": "bill_10",
+    "department": "Billing",
+    "audience": "external",
+    "question": "What if I forgot my account password to access my invoices?",
+    "answer": "If you forgot your password, click on the 'Forgot Password?' link on the login page. Follow the prompts to reset your password. After resetting, you will be able to log in and access your invoices.",
+    "doc": "Q: What if I forgot my account password to access my invoices?\nA: If you forgot your password, click on the 'Forgot Password?' link on the login page. Follow the prompts to reset your password. After resetting, you will be able to log in and access your invoices."
+  },
+  {
+    "id": "bill_11",
+    "department": "Billing",
+    "audience": "external",
+    "question": "Is there a fee for processing refunds?",
+    "answer": "ShopUNow does not charge any fees for processing refunds. If an item is returned according to our return policy, you will receive a full refund to your original payment method without any deductions.",
+    "doc": "Q: Is there a fee for processing refunds?\nA: ShopUNow does not charge any fees for processing refunds. If an item is returned according to our return policy, you will receive a full refund to your original payment method without any deductions."
+  },
+  {
+    "id": "bill_12",
+    "department": "Billing",
+    "audience": "external",
+    "question": "Can I get an invoice re-sent to my email?",
+    "answer": "Yes, if you need your invoice re-sent, please provide your order number and the email address associated with your account by contacting our Billing department. We will resend the invoice to your email within 1-2 business days.",
+    "doc": "Q: Can I get an invoice re-sent to my email?\nA: Yes, if you need your invoice re-sent, please provide your order number and the email address associated with your account by contacting our Billing department. We will resend the invoice to your email within 1-2 business days."
+  },
+  {
+    "id": "ship_01",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "How can I track my order from ShopUNow?",
+    "answer": "To track your order from ShopUNow, please visit our website and navigate to the 'Order Tracking' page. Enter your order number and email address to view the current status of your shipment. You will receive an email with tracking information as soon as your order has shipped.",
+    "doc": "Q: How can I track my order from ShopUNow?\nA: To track your order from ShopUNow, please visit our website and navigate to the 'Order Tracking' page. Enter your order number and email address to view the current status of your shipment. You will receive an email with tracking information as soon as your order has shipped."
+  },
+  {
+    "id": "ship_02",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "What should I do if my order has not arrived yet?",
+    "answer": "If your order has not arrived by the expected delivery date, please check the tracking information provided in your shipment confirmation email. If the tracking indicates that your package is delayed, please allow an additional 1-2 business days for delivery. If it still hasn\u2019t arrived after that, contact our customer support for further assistance.",
+    "doc": "Q: What should I do if my order has not arrived yet?\nA: If your order has not arrived by the expected delivery date, please check the tracking information provided in your shipment confirmation email. If the tracking indicates that your package is delayed, please allow an additional 1-2 business days for delivery. If it still hasn\u2019t arrived after that, contact our customer support for further assistance."
+  },
+  {
+    "id": "ship_03",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "How long does delivery take for orders placed at ShopUNow?",
+    "answer": "Delivery times at ShopUNow typically range from 3 to 7 business days, depending on your location and the shipping method selected at checkout. For expedited shipping options, please check our shipping policy for estimated delivery times.",
+    "doc": "Q: How long does delivery take for orders placed at ShopUNow?\nA: Delivery times at ShopUNow typically range from 3 to 7 business days, depending on your location and the shipping method selected at checkout. For expedited shipping options, please check our shipping policy for estimated delivery times."
+  },
+  {
+    "id": "ship_04",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "What is ShopUNow's policy on damaged goods received?",
+    "answer": "If you receive a damaged item, please contact our customer support team within 48 hours of delivery. We will guide you through the process of returning the damaged product and provide a replacement or refund as per our return policy. Please retain all packaging materials for the return process.",
+    "doc": "Q: What is ShopUNow's policy on damaged goods received?\nA: If you receive a damaged item, please contact our customer support team within 48 hours of delivery. We will guide you through the process of returning the damaged product and provide a replacement or refund as per our return policy. Please retain all packaging materials for the return process."
+  },
+  {
+    "id": "ship_05",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "You can change your shipping address within 30 minutes of placing your order. Please contact our customer support immediately with your order number and the new address. After this time, changes may not be possible, especially if the order has already been processed for shipment.",
+    "doc": "Q: Can I change my shipping address after placing an order?\nA: You can change your shipping address within 30 minutes of placing your order. Please contact our customer support immediately with your order number and the new address. After this time, changes may not be possible, especially if the order has already been processed for shipment."
+  },
+  {
+    "id": "ship_06",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "What are the shipping options available at ShopUNow?",
+    "answer": "ShopUNow offers several shipping options, including standard shipping, expedited shipping, and express delivery. During checkout, you will be able to select your preferred shipping option, and the associated costs will be displayed based on your location and order size.",
+    "doc": "Q: What are the shipping options available at ShopUNow?\nA: ShopUNow offers several shipping options, including standard shipping, expedited shipping, and express delivery. During checkout, you will be able to select your preferred shipping option, and the associated costs will be displayed based on your location and order size."
+  },
+  {
+    "id": "ship_07",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "What should I do if my tracking number is not working?",
+    "answer": "If your tracking number is not working, it may be due to a delay in the carrier's system updating. Please wait 24 hours and try again. If it still does not work, contact our customer support team with your order number for further assistance.",
+    "doc": "Q: What should I do if my tracking number is not working?\nA: If your tracking number is not working, it may be due to a delay in the carrier's system updating. Please wait 24 hours and try again. If it still does not work, contact our customer support team with your order number for further assistance."
+  },
+  {
+    "id": "ship_08",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "Does ShopUNow ship internationally?",
+    "answer": "Yes, ShopUNow does offer international shipping to select countries. During the checkout process, if your country is eligible for shipping, it will be available as an option. Additional shipping fees and customs duties may apply.",
+    "doc": "Q: Does ShopUNow ship internationally?\nA: Yes, ShopUNow does offer international shipping to select countries. During the checkout process, if your country is eligible for shipping, it will be available as an option. Additional shipping fees and customs duties may apply."
+  },
+  {
+    "id": "ship_09",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "How can I initiate a return pickup for my order?",
+    "answer": "To initiate a return pickup, please visit our returns page on the ShopUNow website. Fill out the return request form, and our customer service team will contact you to arrange a pickup time that is convenient for you. Ensure the item is securely packaged for the pickup.",
+    "doc": "Q: How can I initiate a return pickup for my order?\nA: To initiate a return pickup, please visit our returns page on the ShopUNow website. Fill out the return request form, and our customer service team will contact you to arrange a pickup time that is convenient for you. Ensure the item is securely packaged for the pickup."
+  },
+  {
+    "id": "ship_10",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "What happens if I miss my delivery?",
+    "answer": "If you miss your delivery, the carrier will typically leave a notice indicating that a delivery attempt was made. You may have the option to reschedule the delivery or pick up your package from a designated location. Please check the notice for specific instructions based on the carrier's policy.",
+    "doc": "Q: What happens if I miss my delivery?\nA: If you miss your delivery, the carrier will typically leave a notice indicating that a delivery attempt was made. You may have the option to reschedule the delivery or pick up your package from a designated location. Please check the notice for specific instructions based on the carrier's policy."
+  },
+  {
+    "id": "ship_11",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "Can I specify a delivery time for my order?",
+    "answer": "Currently, ShopUNow does not offer the option to specify a delivery time. Delivery times are based on the selected shipping method and the carrier's schedule. You will receive updates on your shipment as it progresses through the delivery process.",
+    "doc": "Q: Can I specify a delivery time for my order?\nA: Currently, ShopUNow does not offer the option to specify a delivery time. Delivery times are based on the selected shipping method and the carrier's schedule. You will receive updates on your shipment as it progresses through the delivery process."
+  },
+  {
+    "id": "ship_12",
+    "department": "Shipping",
+    "audience": "external",
+    "question": "What should I do if I received the wrong item?",
+    "answer": "If you received the wrong item, please contact our customer support within 48 hours of delivery. We will assist you in returning the incorrect item and ensure you receive the correct item as soon as possible, following our return policy.",
+    "doc": "Q: What should I do if I received the wrong item?\nA: If you received the wrong item, please contact our customer support within 48 hours of delivery. We will assist you in returning the incorrect item and ensure you receive the correct item as soon as possible, following our return policy."
+  }
+]
