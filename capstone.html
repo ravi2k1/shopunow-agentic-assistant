@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ShopUNow Agentic AI Assistant - Capstone Presentation</title>
+<style>
+    :root {
+        --bg-dark: #0f172a;
+        --bg-light: #f8fafc;
+        --card-dark: #1e293b;
+        --card-light: #ffffff;
+        --text-dark: #f8fafc;
+        --text-light: #0f172a;
+        --accent-blue: #38bdf8;
+        --accent-green: #34d399;
+        --accent-amber: #fbbf24;
+        --border-light: #e2e8f0;
+        --border-dark: #334155;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    body { background-color: #020617; color: var(--text-dark); padding: 40px 20px; display: flex; flex-direction: column; align-items: center; gap: 40px; }
+
+    .slide { width: 100%; max-width: 1000px; min-height: 560px; border-radius: 16px; padding: 40px; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5); border: 1px solid var(--border-dark); position: relative; overflow: hidden; }
+    .slide.dark { background-color: var(--bg-dark); color: var(--text-dark); }
+    .slide.light { background-color: var(--bg-light); color: var(--text-light); border-color: var(--border-light); }
+
+    .slide-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px; }
+    .slide-title { font-size: 28px; font-weight: 700; tracking: -0.02em; }
+    .slide-subtitle { font-size: 14px; color: #94a3b8; margin-top: 4px; }
+    .light .slide-subtitle { color: #64748b; }
+    .slide-number { font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 20px; background: rgba(255,255,255,0.1); }
+    .light .slide-number { background: rgba(0,0,0,0.05); color: #64748b; }
+
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+
+    .card { padding: 20px; border-radius: 12px; border: 1px solid var(--border-dark); background: var(--card-dark); }
+    .light .card { background: var(--card-light); border-color: var(--border-light); box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+
+    .card-title { font-size: 16px; font-weight: 600; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
+    .card-text { font-size: 13px; line-height: 1.5; color: #cbd5e1; }
+    .light .card-text { color: #475569; }
+
+    .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; text-transform: uppercase; }
+    .badge-blue { background: rgba(56, 189, 248, 0.15); color: var(--accent-blue); }
+    .badge-green { background: rgba(52, 211, 153, 0.15); color: var(--accent-green); }
+    .badge-amber { background: rgba(251, 191, 36, 0.15); color: var(--accent-amber); }
+
+    .flow-container { display: flex; flex-direction: column; gap: 10px; margin-top: 10px; }
+    .flow-step { display: flex; align-items: center; justify-content: space-between; padding: 10px 14px; border-radius: 8px; background: #0f172a; border: 1px solid var(--border-dark); font-size: 13px; }
+    .light .flow-step { background: #f1f5f9; border-color: #cbd5e1; color: #0f172a; }
+
+    ul.clean-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    ul.clean-list li { font-size: 13px; line-height: 1.4; position: relative; padding-left: 18px; }
+    ul.clean-list li::before { content: "•"; position: absolute; left: 0; color: var(--accent-blue); font-weight: bold; }
+
+    .footer { display: flex; justify-content: space-between; align-items: center; font-size: 11px; color: #64748b; margin-top: 20px; border-top: 1px solid var(--border-dark); padding-top: 12px; }
+    .light .footer { border-color: var(--border-light); }
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1: Title & Business Architecture -->
+<div class="slide dark">
+    <div>
+        <div class="slide-header">
+            <div>
+                <span class="badge badge-blue">Capstone Walkthrough</span>
+                <h1 class="slide-title" style="margin-top: 8px;">ShopUNow Agentic AI Assistant</h1>
+                <p class="slide-subtitle">State-Directed Agentic RAG with LangGraph, ChromaDB & Streamlit</p>
+            </div>
+            <span class="slide-number">Slide 1 / 4</span>
+        </div>
+
+        <div class="grid-2" style="margin-top: 20px;">
+            <div class="card">
+                <div class="card-title">🛍️ Business Use Case</div>
+                <p class="card-text">
+                    Unified intelligent assistant for <b>ShopUNow</b> answering both internal employee and external customer queries across 4 core departments:
+                </p>
+                <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
+                    <span class="badge badge-green">HR (Internal)</span>
+                    <span class="badge badge-green">IT Support (Internal)</span>
+                    <span class="badge badge-blue">Billing (External)</span>
+                    <span class="badge badge-blue">Shipping (External)</span>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">⚙️ Primary Tech Stack</div>
+                <ul class="clean-list">
+                    <li><b>Orchestration:</b> LangGraph (StateGraph) with MemorySaver</li>
+                    <li><b>LLM Engine:</b> OpenAI GPT-4o with Pydantic Structured Output</li>
+                    <li><b>Hybrid Retrieval:</b> ChromaDB MMR Dense + BM25 Sparse Search</li>
+                    <li><b>Web Interface:</b> Streamlit with Real-Time Reasoning Logs</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <span>Analytics Vidhya AI Pioneer Program</span>
+        <span>Learner: Saksham Singh Parmar</span>
+    </div>
+</div>
+
+<!-- SLIDE 2: Architectural Pipeline & Node Logic -->
+<div class="slide light">
+    <div>
+        <div class="slide-header">
+            <div>
+                <span class="badge badge-green">Technical Design</span>
+                <h2 class="slide-title" style="margin-top: 8px;">State-Graph Execution Pipeline</h2>
+                <p class="slide-subtitle">Deterministic Node Operations & Guardrail Routing</p>
+            </div>
+            <span class="slide-number">Slide 2 / 4</span>
+        </div>
+
+        <div class="flow-container">
+            <div class="flow-step">
+                <div><b>1. Classify Node</b> <span style="color:#64748b;">— Intent & Sentiment Extraction</span></div>
+                <span class="badge badge-amber">Pydantic Guardrail</span>
+            </div>
+            <div class="flow-step">
+                <div><b>2. Condense Node</b> <span style="color:#64748b;">— Anaphora Resolution & Conversation History Rewriting</span></div>
+                <span class="badge badge-blue">Thread Memory</span>
+            </div>
+            <div class="flow-step">
+                <div><b>3. Hybrid Retrieve Node</b> <span style="color:#64748b;">— 50/50 BM25 + Dense MMR Vector Search with Dept Filter</span></div>
+                <span class="badge badge-green">ChromaDB DB</span>
+            </div>
+            <div class="flow-step">
+                <div><b>4. Generate Node</b> <span style="color:#64748b;">— Context-Aware Answer Synthesis / Interactive Escalation</span></div>
+                <span class="badge badge-blue">GPT-4o</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <span>LangGraph StateGraph Execution</span>
+        <span>Node Logic Flow</span>
+    </div>
+</div>
+
+<!-- SLIDE 3: Technical Defense & Architecture Justification -->
+<div class="slide light">
+    <div>
+        <div class="slide-header">
+            <div>
+                <span class="badge badge-amber">Engineering Defense</span>
+                <h2 class="slide-title" style="margin-top: 8px;">Why This Architecture?</h2>
+                <p class="slide-subtitle">Design Trade-offs & Critical Edge Case Fixes</p>
+            </div>
+            <span class="slide-number">Slide 3 / 4</span>
+        </div>
+
+        <div class="grid-3">
+            <div class="card">
+                <div class="card-title">Why LangGraph?</div>
+                <p class="card-text">
+                    Standard chains lack cyclic memory and state control. LangGraph provides deterministic node transitions, state updates, and checkpointer persistence required for enterprise support.
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Why Hybrid Search?</div>
+                <p class="card-text">
+                    Dense MMR search captures semantic intent ("slow laptop"), while BM25 ensures exact keyword matches (policy IDs). Metadata filters prevent cross-department document contamination.
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Edge Cases Fixed</div>
+                <p class="card-text">
+                    • Prevented false escalations on problem reports ("slow laptop").<br>
+                    • Added <code>Conversational</code> route for greetings & memory meta-questions.<br>
+                    • Standardized string categories.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <span>Architectural Trade-offs</span>
+        <span>System Robustness</span>
+    </div>
+</div>
+
+<!-- SLIDE 4: Stretch Goals & Requirements Summary -->
+<div class="slide dark">
+    <div>
+        <div class="slide-header">
+            <div>
+                <span class="badge badge-green">Verification</span>
+                <h2 class="slide-title" style="margin-top: 8px;">Capstone Deliverables & Stretch Goals</h2>
+                <p class="slide-subtitle">Summary of Achievements against Capstone Benchmarks</p>
+            </div>
+            <span class="slide-number">Slide 4 / 4</span>
+        </div>
+
+        <div class="grid-2" style="margin-top: 10px;">
+            <div class="card">
+                <div class="card-title" style="color: var(--accent-green);">✅ Compulsory Goals Met</div>
+                <ul class="clean-list" style="margin-top: 10px;">
+                    <li><b>4 Core Departments:</b> HR, IT_SUPPORT, Billing, Shipping</li>
+                    <li><b>Synthetic Knowledge Base:</b> FAQ dataset ingested into ChromaDB</li>
+                    <li><b>Routing & Sentiment Guardrails:</b> Automatic escalation on negative sentiment or unhandled topics</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <div class="card-title" style="color: var(--accent-blue);">🚀 Stretch Goals Implemented</div>
+                <ul class="clean-list" style="margin-top: 10px;">
+                    <li><b>Option 1 (Thread Memory):</b> Multi-turn conversational memory via <code>MemorySaver</code></li>
+                    <li><b>Option 2 (Interactive Form):</b> Dynamic Streamlit UI escalation ticketing form</li>
+                    <li><b>Option 4 (Web UI):</b> Custom Streamlit app with agent execution status logs</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <span>Analytics Vidhya Capstone Submission</span>
+        <span>Status: Ready for Demo</span>
+    </div>
+</div>
+
+</body>
+</html>
